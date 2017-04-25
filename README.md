@@ -1,6 +1,6 @@
 # npmdoc-is-svg
 
-#### api documentation for  [is-svg (v2.1.0)](https://github.com/sindresorhus/is-svg#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-is-svg.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-is-svg) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-is-svg.svg)](https://travis-ci.org/npmdoc/node-npmdoc-is-svg)
+#### basic api documentation for  [is-svg (v2.1.0)](https://github.com/sindresorhus/is-svg#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-is-svg.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-is-svg) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-is-svg.svg)](https://travis-ci.org/npmdoc/node-npmdoc-is-svg)
 
 #### Check if a string or buffer is SVG
 
@@ -83,7 +83,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "2.1.0"
+    "version": "2.1.0",
+    "bin": {}
 }
 ```
 
